@@ -9,14 +9,13 @@ You can check how it is in our production appointment by checking any appointmen
 However, you’ll have to mock the data of the current appointment (the one be rescheduled) and make different calls than in production to get the available slots and to book the appointment. Please, forget about the buttons ‘Confirm appointment’ and ‘Cancel appointment’, just ignore them. :)
 
 Examples: 
-* Screenshot: https://monosnap.com/file/sc21Af4QRQ2hVL3xrXzyCV6kYvUNkJ
-* Video: https://monosnap.com/file/OEzPVaqq82v1M8Jrcy0qlSuAGDHUsu
+*   Screenshot: https://monosnap.com/file/sc21Af4QRQ2hVL3xrXzyCV6kYvUNkJ
+*   Video: https://monosnap.com/file/OEzPVaqq82v1M8Jrcy0qlSuAGDHUsu
 
 *Utils:*
-- Sample of appointments that you can play with in utils.txt
-- Slots (time and date of the visit) can be taken, what it means that a visit has already booked for that slot and is not available to the patient to book it.
-- You shouldn't be able to navigate/go to the past in the calendar
-- The first day that it is displayed in the calendar is the current day, so if today is Tuesday, the calendar we’ll start on Tuesday
+*   Slots (time and date of the visit) can be taken, what it means that a visit has already booked for that slot and is not available to the patient to book it.
+*   You shouldn't be able to navigate/go to the past in the calendar
+*   The first day that it is displayed in the calendar is the current day, so if today is Tuesday, the calendar we’ll start on Tuesday
 
 
 #### Api:
