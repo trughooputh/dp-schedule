@@ -1,4 +1,4 @@
-# docplanner-schedule
+# dp-schedule
 
 VueJS application made with official [VueCLI](https://cli.vuejs.org/)
 

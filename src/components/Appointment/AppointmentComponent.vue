@@ -131,6 +131,5 @@ export default {
   &__Remove {
     cursor: pointer;
   }
-
 }
 </style>

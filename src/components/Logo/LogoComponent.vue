@@ -1,9 +1,6 @@
 <template>
   <div class="Logo">
-    <img
-      alt="DocPlanner logo"
-      src="../../assets/docplanner-logo.png"
-    >
+    <img alt="DP logo" src="../../assets/dp-logo.png" />
   </div>
 </template>
 
